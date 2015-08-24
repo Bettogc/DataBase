@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Howarts School": {
+      "applicationId": "lxVutBFSANnseIpiadp7CKc5cHssHiqHmm29Vt0o"
+    },
+    "_default": {
+      "link": "Howarts School"
+    }
+  }
+}
