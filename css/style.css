@@ -1,0 +1,77 @@
+html,
+body {
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-5/cur464.cur), progress;
+    background-color: #f0f2eb;
+    padding-top: 1%;
+}
+/* Space between container and body */
+.space {
+    background-color: #f4fad2;
+}
+/* Width of logo image */
+.logo {
+    width: 70%;
+}
+/* Text align "right"*/
+.text-right {
+    float: right;
+}
+/* Google fonts type "Indie Flower" */
+.type-text {
+    font-family: "Indie Flower", cursive;
+}
+/* type of display unordered list */
+ul {
+    display: table;
+    text-align: center;
+    width: 100%;
+}
+/* color li tag and display with borders */
+li {
+    background-color: #69d2e7;
+    display: table-cell;
+    padding: 1%;
+    border: 1px dashed gray;
+    font-family: "Shadows Into Light", cursive;
+}
+/* text decoration in a tag */
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+/* text-decoration and color text in a tag with mousemove event */
+li a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+/* Cursor type and background with mousemove event in li tag */
+li:hover {
+    cursor: pointer;
+    background-color: #ff4242
+}
+/* Nav list color */
+.nav {
+    background-color: #f4fad2;
+    height: 43px;
+    padding-right: 3%;
+}
+/* results of parse data base */
+.results {
+    background-color: #bcbfaf;
+    height: 400px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.date {
+    width: 100%;
+    height: 280px;
+    overflow: auto;
+}
+
+#new,
+#view {
+	display: none;
+}
